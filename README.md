@@ -12,8 +12,6 @@ Aspiring AI Researcher | Grade 12 Student | Future MBZUAI Student
 ---
 
 ## 💻 Projects
-### [Simple ML Project]
-- Built a basic classifier using Python
 - Learned data preprocessing and model evaluation
 
 ### [42 Abu Dhabi Coding Exercises]
